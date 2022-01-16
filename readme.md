@@ -30,6 +30,12 @@ Developed a jewelry e-Commerce store that has more than 100 orders each month. I
 - wrote Python script for generating 3D rendered product images and videos for bracelets created by a designer tool in the admin panel.
 - built automated newsletter sending functionality.
 
+Technologies: ASP.NET Core MVC, Angular 8, Python, Blender 3D, jQuery, SCSS
+
+#### Android applications with over 200,000 downloads - (2018 - 2020)
+This project is one of the five applications that I've developed: a native Android application that I started building using Java, which I later migrated to Kotlin. The app features cloud synchronization using Firebase, in-app purchases, and data import and export capabilities.
+https://play.google.com/store/apps/details?id=com.boroscsaba.myapplication&hl=en
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
