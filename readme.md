@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![alt text](https://github.com/[boros-csaba]/[resume]/blob/[gh-pages]/profile.jpg?raw=true)
+![Profile picture](https://github.com/boros-csaba/resume/blob/gh-pages/profile.jpg?raw=true)
 You can use the [editor on GitHub](https://github.com/boros-csaba/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
