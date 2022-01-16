@@ -1,4 +1,3 @@
-## Csaba Boros
 <img align="left" width="100" height="100" src="https://github.com/boros-csaba/resume/blob/gh-pages/profile.jpg?raw=true">
 I am an experienced, fast learner and enthusiastic full-stack developer with over 8 years of professional experience in the C# .NET stack as a freelance developer. Some of the technologies I use the most are ASP.NET Core MVC, REST API, Angular, Blazor, Javascript, but I don`t shy away from the DevOps and DBA parts of the project either.
 <br /> 
