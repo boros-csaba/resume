@@ -1,8 +1,20 @@
 ## Csaba Boros
 <img align="left" width="100" height="100" src="https://github.com/boros-csaba/resume/blob/gh-pages/profile.jpg?raw=true">
 I am an experienced, fast learner and enthusiastic full-stack developer with over 8 years of professional experience in the C# .NET stack as a freelance developer. Some of the technologies I use the most are ASP.NET Core MVC, REST API, Angular, Blazor, Javascript, but I don`t shy away from the DevOps and DBA parts of the project either.
+  
+<br /> 
+<br />
+      
+## Projects
+#### BCM - Technical Lead (2015 - PRESENT)
+ - Planned and coded a complex data migration tool affecting multiple systems.
+ - Achieved huge performance gains by profiling and optimizing a very large legacy system.
+ - Managed and supervised the work of junior programmers on multiple small and mid-sized projects.
+ - Worked on creating a complex Angular-based front-end for a telecommunications network diagram creator tool.
+ - Created a project management application using XAF.
+Technologies: SQL, DevExpress, Knockout.js, Angular, ASP.NET MVC
 
-### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
