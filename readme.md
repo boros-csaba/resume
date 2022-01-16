@@ -43,7 +43,7 @@ Technologies: Blazor, .NET 5, SCSS, REST, Swagger, Entity Framework
 This project is one of the five applications that I've developed: a native Android application that I started building using Java, which I later migrated to Kotlin. The app features cloud synchronization using Firebase, in-app purchases, and data import and export capabilities.
 https://play.google.com/store/apps/details?id=com.boroscsaba.myapplication&hl=en
 
-##### Other projects
+#### Contact information
 I am also part of the "Top 3% of Developers" according to Toptal: https://www.toptal.com/resume/boros-csaba
 Currently I have 20 hours open for more client work. I am open for smaller and bigger projects as well on a contractual basis. I am usually open for meetings between  2 AM and 5 PM PST.
 Please contact me at boros.csaba94@gmail.com
