@@ -7,7 +7,7 @@ I am an experienced, fast learner and enthusiastic full-stack developer with ove
 ## Projects and employment
 #### Client work - SOAP Website with .NET 5 (2021 - 2022)
  - Designed and created a SOAP website using SoapCore to handle Soap1.1 and Soap1.2 requests from legacy third party client applications
- - Created build and realease pipelines in Azure DevOps
+ - Created build and release pipelines in Azure DevOps
  - Ensured the quality with unit tests and by simulating client requests using SoapUI
 
 Technologies: SQL, .NET 5, SoapCore, SoapUI
