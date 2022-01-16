@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Csaba Boros
 ![Profile picture](https://github.com/boros-csaba/resume/blob/gh-pages/profile.jpg?raw=true)
-You can use the [editor on GitHub](https://github.com/boros-csaba/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an experienced, fast learner and enthusiastic full-stack developer with over 8 years of professional experience in the C# .NET stack as a freelace developer. 
 
 ### Markdown
 
