@@ -32,37 +32,18 @@ Developed a jewelry e-Commerce store that has more than 100 orders each month. I
 
 Technologies: ASP.NET Core MVC, Angular 8, Python, Blender 3D, jQuery, SCSS
 
+#### Legal data management site using Blazor (2020 - PRESENT)
+ - created complex user interfaces using Blazor components
+ - build custom Blazor components for fax and phone input fields
+ - created REST API endpoints for the back-end part of the website
+
+Technologies: Blazor, .NET 5, SCSS, REST, Swagger, Entity Framework
+
 #### Android applications with over 200,000 downloads - (2018 - 2020)
 This project is one of the five applications that I've developed: a native Android application that I started building using Java, which I later migrated to Kotlin. The app features cloud synchronization using Firebase, in-app purchases, and data import and export capabilities.
 https://play.google.com/store/apps/details?id=com.boroscsaba.myapplication&hl=en
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/boros-csaba/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##### Other projects
+I am also part of the "Top 3% of Developers" according to Toptal: https://www.toptal.com/resume/boros-csaba
+Currently I have 20 hours open for more client work. I am open for smaller and bigger projects as well on a contractual basis. I am usually open for meetings between  2 AM and 5 PM PST.
+Please contact me at boros.csaba94@gmail.com
